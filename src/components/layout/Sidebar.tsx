@@ -63,7 +63,7 @@ export function Sidebar() {
           <Zap className="w-5 h-5 text-white" />
         </div>
         {!collapsed && (
-          <span className="font-bold text-lg text-sidebar-foreground">Kavach</span>
+          <span className="font-bold text-lg text-sidebar-foreground">RepuX/span>
         )}
       </div>
 
